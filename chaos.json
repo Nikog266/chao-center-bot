@@ -1,0 +1,40 @@
+{
+    "975044861646479440": {
+        "name": "Mine",
+        "level": 1,
+        "hunger": 42,
+        "happiness": 57,
+        "type": "Normal",
+        "image": "https://static.wikia.nocookie.net/sonic/images/b/bf/NormalChao.png",
+        "owner_id": "975044861646479440",
+        "stage": "child",
+        "swim": 3,
+        "fly": 0,
+        "run": 0,
+        "power": 0,
+        "stamina": 0,
+        "color": "Rosa",
+        "outfit": "Sart\u00e9n",
+        "alignment": 100,
+        "inventory": {},
+        "rebirths": 0,
+        "animales_inventario": [],
+        "partes": [
+            {
+                "parte": "alas",
+                "animal": "c\u00f3ndor"
+            }
+        ],
+        "juguetes": [
+            "Burbuja",
+            "Pala"
+        ],
+        "instrumentos": [
+            "Flauta",
+            "Flauta"
+        ],
+        "blackmarket_inventory": {
+            "yellow chaos drive": 1
+        }
+    }
+}
